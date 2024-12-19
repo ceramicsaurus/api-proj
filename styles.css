@@ -1,0 +1,14 @@
+body * {
+    font-family: "Lilita One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.card {
+    margin: 45px;
+}
+
+.default {
+    text-align: center;
+    font-size: 50px;
+}
